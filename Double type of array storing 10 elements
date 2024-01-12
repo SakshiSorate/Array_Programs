@@ -1,0 +1,24 @@
+//This stores 10 elements in an array of double type
+
+class DoubleArray{
+public static void main(String[] args)
+{
+Double a[]=new Double[10];
+a[0]=10.5;        //Value Stores at 0th index
+a[1]=20.5;	//Value Stores at 1st index	
+a[2]=30.5;	//Value Stores at 2nd index
+a[3]=40.8;	//Value Stores at 3rd index
+a[4]=50.9;	//Value Stores at 4th index
+a[5]=60.5;	//Value Stores at 5th index	
+a[6]=70.6;	//Value Stores at 6th index
+a[7]=80.6;	//Value Stores at 7th index
+a[8]=90.5;	//Value Stores at 8th index
+a[9]=10.78;	//Value Stores at 10th index
+
+
+System.out.println(a[4]);
+
+}
+
+
+}
