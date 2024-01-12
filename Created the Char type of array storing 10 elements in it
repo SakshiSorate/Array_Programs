@@ -1,0 +1,24 @@
+//This stores 10 elements in an array of char type
+
+class CharArray{
+public static void main(String[] args)
+{
+char a[]=new char[10];
+a[0]='a'; //Value Stores at 0th index
+a[1]='b';	//Value Stores at 1st index	
+a[2]='c';	//Value Stores at 2nd index
+a[3]='d';	//Value Stores at 3rd index
+a[4]='e';	//Value Stores at 4th index
+a[5]='f';	//Value Stores at 5th index	
+a[6]='g';	//Value Stores at 6th index
+a[7]='h';	//Value Stores at 7th index
+a[8]='i';	//Value Stores at 8th index
+a[9]='j';	//Value Stores at 10th index
+
+
+System.out.println(a[5]);
+
+}
+
+
+}
