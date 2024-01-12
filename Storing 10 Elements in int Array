@@ -1,0 +1,22 @@
+//This stores 10 elements in an array of int type
+
+class IntArray{
+public static void main(String[] args)
+{
+int a[]=new int[10];
+a[0]=100;        //Value Stores at 0th index
+a[1]=200;	//Value Stores at 1st index	
+a[2]=300;	//Value Stores at 2nd index
+a[3]=400;	//Value Stores at 3rd index
+a[4]=500;	//Value Stores at 4th index
+a[5]=600;	//Value Stores at 5th index	
+a[6]=700;	//Value Stores at 6th index
+a[7]=800;	//Value Stores at 7th index
+a[8]=900;	//Value Stores at 8th index
+a[9]=1000;	//Value Stores at 10th index
+
+
+System.out.println(a[9]);
+
+}
+}
