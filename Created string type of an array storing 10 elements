@@ -1,0 +1,24 @@
+//This stores 10 elements in an array of String type
+
+class string_Array{
+public static void main(String[] args)
+{
+String a[]=new String[10];
+a[0]="Apple";           //Value Stores at 0th index
+a[1]="Bat";		//Value Stores at 1st index	
+a[2]="Cat";		//Value Stores at 2nd index
+a[3]="Dog";		//Value Stores at 3rd index
+a[4]="Elephant";	//Value Stores at 4th index
+a[5]="Fan";	 	//Value Stores at 5th index	
+a[6]="Girl";		//Value Stores at 6th index
+a[7]="Hen";		//Value Stores at 7th index
+a[8]="Ink";		//Value Stores at 8th index
+a[9]="Joker";		//Value Stores at 10th index
+
+
+System.out.println(a[6]);
+
+}
+
+
+}
